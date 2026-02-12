@@ -13,13 +13,24 @@ A comprehensive summary of all my development projects, ranging from e-commerce 
 
 ### About
 Full-featured e-commerce platform for Donata Oppermann's handmade paper yarn urns. Custom-built storefront with product catalog, shopping cart, and checkout functionality.
+<img width="1440" height="652" alt="Bildschirmfoto 2026-02-12 um 12 01 30" src="https://github.com/user-attachments/assets/897ffa43-2413-41b8-853f-8963a1f32d0f" />
+<img width="1440" height="748" alt="Bildschirmfoto 2026-02-12 um 12 02 04" src="https://github.com/user-attachments/assets/6d6bd6c4-fac3-4287-ae22-e81fe9f1279d" />
+<img width="1440" height="725" alt="Bildschirmfoto 2026-02-12 um 12 02 31" src="https://github.com/user-attachments/assets/b77261da-2ba1-418a-b19a-d3543b66d745" />
+
 </details>
 
 <details>
-<summary><strong><a href="https://github.com/seimon-ohh/oppermann-kunst">oppermann-kunst</a></strong> 🔒 - Art portfolio and showcase platform</summary>
+<summary><strong><a href="https://github.com/seimon-ohh/oppermann-kunst">art-portfolio</a></strong> 🔒 - Art portfolio and showcase platform</summary>
 
 ### About
-Art portfolio website showcasing artistic works with gallery functionality.
+Custom Art portfolio website showcasing artistic works with gallery functionality.
+<img width="1440" height="744" autoplay alt="Bildschirmfoto 2026-02-12 um 12 04 46" src="https://github.com/user-attachments/assets/7f39dc82-d55e-4f8f-ba83-6b688df98d44" />
+
+
+https://github.com/user-attachments/assets/ddf6ea76-d041-4f0f-94b9-7a2fc4dac0f3
+
+
+
 </details>
 
 <details>
